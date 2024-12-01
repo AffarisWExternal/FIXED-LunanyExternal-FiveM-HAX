@@ -21,3 +21,5 @@ Lua Executor
 
 
 MORE INFO discord.gg/nanorblx
+NEW DISCORD:
+https://discord.gg/wv9WQYHb
