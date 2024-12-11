@@ -4,6 +4,9 @@ This is a free working Fivem HACK for GTA V which you can download from our site
 
 This fivem cheat is undetected right now but still, there is always a chance of getting ban. So, use it at your own risk. This is more of a cheat than a mod menu. The developer used a pattern scan to create it. So, it will get the offsets on every update automatically. Also because of the pattern, it works on SC and Steam versions, Epic Games.
 
+FOR PREMIUM PACK OF THIS SOFTWARE DM ME ASAP ON DISCORD PAYMENT LTC !!!
+DISCORD: sputatf
+
 # Features of Fivem Mod Menu
 
 ESP (Skeleton)
